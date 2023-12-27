@@ -1,0 +1,26 @@
+html,
+body {
+    height: 100%;
+}
+
+.vh-33 {
+    height: 33vh;
+}
+
+.img-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.btn-custom {
+  color: #FFFFFF; /* 텍스트 색상 */
+  background-color:#003F6D; /* 배경 색상 */
+  height: 8vh;
+  width: 57vw;
+  border-radius: 100px; /* 버튼 모서리 둥글기 */
+  font-size:8vw; 
+  letter-spacing: 2px;
+  border: none;
+}
